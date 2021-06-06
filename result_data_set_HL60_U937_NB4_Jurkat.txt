@@ -1,0 +1,15 @@
+@author K Sree Harsha
+Gene analysis results
+
+--------------------------
+Total number of distinct Gene Accession Numbers represented in the data set are 7229
+
+--------------------------
+Time points 0.5 hr and 4 hr are highly correlated for Cell line U937 
+Time points 0 hr and 4 hr are highly correlated for Cell line HL60 
+Time points 24 hr and 48 hr are highly correlated for Cell line NB4 
+Time points 0.5 hr and 4 hr are highly correlated for Cell line Jurkat 
+
+--------------------------
+Most correlated cell lines are Jurkat and NB4
+
